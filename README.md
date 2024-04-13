@@ -23,7 +23,7 @@
 
 [![An image of @isha2923's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isha2923)](https://holopin.io/@isha2923)
 
-[![Isha2923's GitHub | Dependencies](https://stats.quine.sh/Isha2923/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Isha2923)
+[![Isha2923's GitHub | Dependencies](https://stats.quine.sh/Isha2923/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Isha2923)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isha2923&show_icons=true&locale=en&layout=compact" alt="isha2923" /></p>
 
