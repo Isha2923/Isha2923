@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isha2923&label=Profile%20views&color=0e75b6&style=flat" alt="isha2923" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha2923" alt="isha2923" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha2923&theme=onedark" alt="isha2923" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile Development and honing my problem solving skills in DSA**
 
@@ -27,7 +27,7 @@
 
 [![Isha2923's GitHub | Stats](https://stats.quine.sh/Isha2923/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Isha2923)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isha2923&show_icons=true&locale=en&layout=compact" alt="isha2923" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isha2923&show_icons=true&locale=en&layout=compact&theme=dark" alt="isha2923" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isha2923&show_icons=true&locale=en&theme=dark" alt="isha2923" /></p>
 
