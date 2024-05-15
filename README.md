@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha2923&theme=onedark" alt="isha2923" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Development and honing my problem solving skills in DSA**
+- 🌱 I’m currently learning **Node.js and honing my problem solving skills in DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isha2923](https://github.com/Isha2923)
 
