@@ -39,6 +39,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
 
+
 [![An image of @isha2923's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isha2923)](https://holopin.io/@isha2923)
 
 [![Isha2923's GitHub | Dependencies](https://stats.quine.sh/Isha2923/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Isha2923)
