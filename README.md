@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Isha Sharma</h1>
-<h3 align="center">A passionate developer driven by the desire to build practical, real-world solutions🚀</h3>
+<h3 align="center">A passionate developer driven by the desire to build real-world solutions🚀</h3>
 
 <!-- ![](readme-gif.gif) -->
 <!-- <img src="https://media.tenor.com/drCvasG5J6IAAAAi/cute.gif" width="200" height="200" alt="Demo GIF1">
