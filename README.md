@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha2923&theme=onedark" alt="isha2923" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js and honing my problem solving skills in DSA**
+- 🌱 I’m currently exploring backend development while sharpening my problem-solving skills in Data Structures and Algorithms.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isha2923](https://github.com/Isha2923)
 
-- 💬 Ask me about **Machine Learning, Frontend Development, Mobile Development**
+- 💬Feel free to ask me about **Machine Learning, Frontend Development, Application Development, Open Source**
+  
+- 🌍 Active contributor in Hacktoberfest'23 and Girlscript Summer of Code'24.
+  
+- 🤝 Love collaborating with cross-functional teams to bring innovative ideas to life.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
