@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋 I'm Isha Sharma</h1>
 <h3 align="center">A passionate developer driven by the desire to build practical, real-world solutions🚀</h3>
 
-![](readme-gif.gif)
+<!-- ![](readme-gif.gif) -->
+<!-- <img src="https://media.tenor.com/drCvasG5J6IAAAAi/cute.gif" width="200" height="200" alt="Demo GIF1">
+<img src="./readme-gif.gif" width="300" alt="Demo GIF"> -->
+<!--<p>
+  <img src="https://media.tenor.com/drCvasG5J6IAAAAi/cute.gif" width="200" height="250" alt="Demo GIF1" style="display:inline-block; vertical-align:top;">
+  <img src="./readme-gif.gif" width="300" height="250" alt="Demo GIF" style="display:inline-block; vertical-align:top;">
+</p> -->
+
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://media.tenor.com/drCvasG5J6IAAAAi/cute.gif" width="200" height="220" alt="Demo GIF1" style="margin-right: 80px;">
+  <img src="./readme-gif.gif" width="250" height="220" alt="Demo GIF" style="margin-left: 100px;">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isha2923&label=Profile%20views&color=0e75b6&style=flat" alt="isha2923" /> </p>
 
